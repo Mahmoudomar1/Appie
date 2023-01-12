@@ -462,4 +462,7 @@
   .for-menu-icon {
     gap: 0.4rem;
   }
+  .footer-text {
+    text-align:center;
+  }
 }
